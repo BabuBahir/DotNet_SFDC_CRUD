@@ -196,6 +196,7 @@
       <DependentUpon>Reference.map</DependentUpon>
     </Content>
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\Query.cshtml" />
     <None Include="Web References\SFDC\enterprise.wsdl" />
     <Content Include="Web References\SFDC\ExecuteListViewResult.datasource">
       <DependentUpon>Reference.map</DependentUpon>
